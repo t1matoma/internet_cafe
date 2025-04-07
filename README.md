@@ -1,4 +1,4 @@
-# ☕ Telegram Cafe Bot  
+# Telegram Cafe Bot  
 **A Telegram bot for ordering food/drinks with scheduled delivery.**  
 Features:  
 - Browse menu by categories (drinks, hot meals, desserts).  
@@ -6,7 +6,7 @@ Features:
 - Receive PDF receipts via email.  
 - PostgreSQL database integration for orders.  
 
-## 🛠 Technologies  
+## Technologies  
 - **Python 3.10+**  
 - **Aiogram 3.x** (async Telegram Bot API framework)  
 - **PostgreSQL** (orders, clients, menu storage)  
@@ -15,7 +15,7 @@ Features:
 
 ---
 
-## ⚙️ Setup & Launch  
+##  Setup & Launch  
 
 ### 1. Clone the repository  
 ```bash
@@ -49,7 +49,7 @@ python main.py
 
 ---
 
-## 🔐 Admin Panel  
+## Admin Panel 
 **Web interface for managing menu/orders**:  
 → [Admin Panel Repository](https://github.com/t1matoma/admin_panel_for_tg_cafe_bot)  
 
@@ -64,7 +64,7 @@ python main.py
 
 ---
 
-## 📋 Bot Commands & Flow  
+## Bot Commands & Flow  
 - **Commands:**  
   - `/start` — begin order.  
   - `/cancel` — cancel current order.  
