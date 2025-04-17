@@ -19,8 +19,8 @@ Features:
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/t1matoma/tg-cafe-bot.git
-cd tg-cafe-bot
+git clone https://github.com/t1matoma/internet_cafe.git
+cd internet_cafe
 ```
 
 ### 2. Configure environment  
