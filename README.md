@@ -39,12 +39,12 @@ DB_NAME=tg_cafe_bot
 
 ### 3. Install dependencies  
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 4. Run the bot  
 ```bash
-python main.py
+python3 main.py
 ```
 
 ---
