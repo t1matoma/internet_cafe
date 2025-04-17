@@ -26,7 +26,7 @@ cd internet_cafe
 ### 2. Configure environment  
 Create `.env` file (see `.env.example`):  
 ```ini
-BOT_TOKEN=your_bot_token_from_BotFather
+TELEGRAM_BOT_TOKEN=your_bot_token_from_BotFather
 SMTP_SERVER=smtp.gmail.com
 SMTP_PORT=587
 SMTP_EMAIL=your@gmail.com
