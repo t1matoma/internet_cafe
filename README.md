@@ -46,6 +46,8 @@ source .venv/bin/activate  # Linux/Mac
 
 ### 3. Install dependencies  
 ```bash
+sudo apt update # Linux
+sudo apt install python3-dev libpq-dev postgresql-server-dev-all # Linux
 pip3 install -r requirements.txt
 ```
 
