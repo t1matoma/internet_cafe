@@ -53,7 +53,7 @@ pip3 install -r requirements.txt
 
 ### 4. Run the bot  
 ```bash
-python3 main.py
+python3 tg-bot.py
 ```
 
 ---
